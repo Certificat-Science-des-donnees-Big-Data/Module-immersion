@@ -18,9 +18,8 @@ ______
 
 <ins> Séance en ligne le mardi 2 novembre 2021. </ins>
 
-[Slides du cours](https://github.com/Certificat-Science-des-donnees-Big-Data/Module-immersion/blob/master/Documents/certif-bigdata-py%202%20nov.pdf)
-
-Le TP Spark est disponible [ici](http://sd-127206.dedibox.fr/hagimont/resources-N7/certificat/certificat.html). 
+- [Slides du cours](https://github.com/Certificat-Science-des-donnees-Big-Data/Module-immersion/blob/master/Documents/certif-bigdata-py%202%20nov.pdf)
+- Le TP Spark est disponible [ici](http://sd-127206.dedibox.fr/hagimont/resources-N7/certificat/certificat.html). 
 
 <ins> Séance en ligne le jeudi 4 novembre 2021. </ins>
 
