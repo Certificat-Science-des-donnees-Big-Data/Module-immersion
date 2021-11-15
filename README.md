@@ -30,7 +30,7 @@ Ces sujets font l'objet de la première partie du module immersion. Une introduc
 
 ### 2.1 Séance en présentiel le 18 Novembre 2021
 
-- [Slides du cours]
+- [Slides du cours](https://github.com/Certificat-Science-des-donnees-Big-Data/Module-immersion/blob/master/Documents/intro-apprentissage.pdf)
 
 Les sujets traités lors de la séance:
 - [Régression Lasso](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-immersion/blob/master/Documents/CoursRegLasso.pdf).
