@@ -64,7 +64,7 @@ Aucun travail personnel est demandé pour cette partie.
 
 [Slides](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-immersion/blob/master/Documents/opti.pdf) pour le cours du 3 Fevrier
 
-[Notebook](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-immersion/blob/master/Documents/tp_7fevrier.ipynb) pour le TP du 3 Fevrier
+[Notebook](https://github.com/Certificat-Science-des-donnees-Big-Data/Module-immersion/blob/master/Documents/tp_optimisation.ipynb) pour le TP du 3 Fevrier
 
 ## 4 Projet de fin module
 
