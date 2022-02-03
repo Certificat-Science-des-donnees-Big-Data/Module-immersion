@@ -71,12 +71,13 @@ Aucun travail personnel est demandé pour cette partie.
 [Présentation du challenge Kaggle](https://www.youtube.com/watch?v=hkRaKieN5Lg)
 
 Le challenge débutera le lundi 7 février et se terminera le vendredi 1er avril. 
+
 Il se fait par équipe de 3 (4 maximum), vous constituerez vos équipes directement sur la plateforme. 
 
 Vous aurez des séances de suivi régulières avec votre enseignant, à 18h00 les jours suivants: 
 
-Mercredi 16 février
-Mercredi 2 mars
-Mercredi 16 mars
-Mercredi 23 mars
-Mercredi 30 mars
+Mercredi 16 février 
+Mercredi 2 mars 
+Mercredi 16 mars 
+Mercredi 23 mars 
+Mercredi 30 mars 
