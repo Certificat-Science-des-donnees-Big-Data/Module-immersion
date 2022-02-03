@@ -55,7 +55,7 @@ A faire sur la période du 03/12/2021 au 05/01/2022.
 Exécuter les notebooks contenus dans les chapitres 6 et 8 à 11 dans: https://github.com/erachelson/Mlclass. 
 
 ### 2.5 Séance en présentiel le 6 Janvier 2022.
-Le [TP spam](https://github.com/wikistat/Apprentissage/tree/master/Spam) fera l'object de cette séance.
+Le [TP spam](https://github.com/wikistat/Apprentissage/tree/master/Spam) fera l'objet de cette séance.
 
 
 ## 3 Algorithmes stochastiques plus sophistiqués : optimisation parcimonieuse, factorisation non négative de matrice
@@ -76,8 +76,8 @@ Il se fait par équipe de 3 (4 maximum), vous constituerez vos équipes directem
 
 Vous aurez des séances de suivi régulières avec votre enseignant, à 18h00 les jours suivants: 
 
-Mercredi 16 février 
-Mercredi 2 mars 
-Mercredi 16 mars 
-Mercredi 23 mars 
-Mercredi 30 mars 
+- Mercredi 16 février 
+- Mercredi 2 mars 
+- Mercredi 16 mars 
+- Mercredi 23 mars 
+- Mercredi 30 mars 
