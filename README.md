@@ -76,8 +76,8 @@ Il se fait par équipe de 3 (4 maximum), vous constituerez vos équipes directem
 
 Vous aurez des séances de suivi régulières avec votre enseignant, à 18h00 les jours suivants: 
 
-- Mercredi 16 février 
-- Mercredi 2 mars 
-- Mercredi 16 mars 
-- Mercredi 23 mars 
-- Mercredi 30 mars 
+Mercredi 16 février  
+Mercredi 2 mars  
+Mercredi 16 mars  
+Mercredi 23 mars  
+Mercredi 30 mars  
